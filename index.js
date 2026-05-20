@@ -1,4 +1,4 @@
-import 'dotenv/config';
+//import 'dotenv/config';
 import TelegramBot from "node-telegram-bot-api";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import http from "http";
